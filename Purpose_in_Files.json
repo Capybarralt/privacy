@@ -1,0 +1,1119 @@
+{
+    "1017_sci-news.com.csv": {
+        "Analytics/Research": 4,
+        "Basic service/feature": 5,
+        "Unspecified": 12
+    },
+    "1028_redorbit.com.csv": {
+        "Additional service/feature": 9,
+        "Advertising": 1,
+        "Analytics/Research": 11,
+        "Basic service/feature": 9,
+        "Marketing": 9,
+        "Other": 4,
+        "Personalization/Customization": 16,
+        "Service Operation and Security": 1,
+        "Unspecified": 11
+    },
+    "1034_aol.com.csv": {
+        "Additional service/feature": 11,
+        "Advertising": 12,
+        "Analytics/Research": 5,
+        "Basic service/feature": 16,
+        "Other": 1,
+        "Personalization/Customization": 5,
+        "Service Operation and Security": 4,
+        "Unspecified": 62
+    },
+    "1050_honda.com.csv": {
+        "Additional service/feature": 124,
+        "Advertising": 7,
+        "Analytics/Research": 10,
+        "Basic service/feature": 30,
+        "Marketing": 20,
+        "Personalization/Customization": 8,
+        "Unspecified": 13
+    },
+    "105_amazon.com.csv": {
+        "Additional service/feature": 18,
+        "Advertising": 6,
+        "Analytics/Research": 5,
+        "Basic service/feature": 17,
+        "Legal requirement": 2,
+        "Merger/Acquisition": 2,
+        "Other": 11,
+        "Personalization/Customization": 14,
+        "Service Operation and Security": 12,
+        "Unspecified": 35
+    },
+    "1070_wnep.com.csv": {
+        "Additional service/feature": 7,
+        "Advertising": 10,
+        "Analytics/Research": 6,
+        "Basic service/feature": 13,
+        "Legal requirement": 1,
+        "Marketing": 4,
+        "Personalization/Customization": 11,
+        "Service Operation and Security": 4,
+        "Unspecified": 46
+    },
+    "1083_highgearmedia.com.csv": {
+        "Additional service/feature": 1,
+        "Advertising": 6,
+        "Analytics/Research": 10,
+        "Basic service/feature": 6,
+        "Legal requirement": 2,
+        "Marketing": 5,
+        "Other": 1,
+        "Service Operation and Security": 7,
+        "Unspecified": 21
+    },
+    "1089_freep.com.csv": {
+        "Additional service/feature": 2,
+        "Advertising": 30,
+        "Analytics/Research": 17,
+        "Basic service/feature": 14,
+        "Marketing": 4,
+        "Other": 2,
+        "Personalization/Customization": 11,
+        "Service Operation and Security": 6,
+        "Unspecified": 24
+    },
+    "1099_enthusiastnetwork.com.csv": {
+        "Additional service/feature": 7,
+        "Advertising": 1,
+        "Analytics/Research": 21,
+        "Basic service/feature": 10,
+        "Marketing": 8,
+        "Other": 2,
+        "Personalization/Customization": 6,
+        "Service Operation and Security": 7,
+        "Unspecified": 18
+    },
+    "1106_allstate.com.csv": {
+        "Additional service/feature": 9,
+        "Advertising": 5,
+        "Analytics/Research": 26,
+        "Basic service/feature": 3,
+        "Marketing": 6,
+        "Personalization/Customization": 4,
+        "Unspecified": 26
+    },
+    "1164_acbj.com.csv": {
+        "Additional service/feature": 11,
+        "Advertising": 4,
+        "Analytics/Research": 10,
+        "Basic service/feature": 6,
+        "Marketing": 8,
+        "Other": 6,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 4,
+        "Unspecified": 36
+    },
+    "1205_opensecrets.org.csv": {
+        "Additional service/feature": 4,
+        "Advertising": 1,
+        "Analytics/Research": 1,
+        "Basic service/feature": 2,
+        "Marketing": 1,
+        "Other": 2,
+        "Service Operation and Security": 5,
+        "Unspecified": 2
+    },
+    "1206_dcccd.edu.csv": {
+        "Advertising": 2,
+        "Analytics/Research": 1,
+        "Legal requirement": 6,
+        "Personalization/Customization": 3,
+        "Unspecified": 3
+    },
+    "1221_gwdocs.com.csv": {
+        "Analytics/Research": 2,
+        "Basic service/feature": 2,
+        "Marketing": 1,
+        "Other": 1,
+        "Personalization/Customization": 3,
+        "Unspecified": 2
+    },
+    "1224_austincc.edu.csv": {
+        "Advertising": 4,
+        "Analytics/Research": 9,
+        "Basic service/feature": 2,
+        "Legal requirement": 6,
+        "Other": 4,
+        "Personalization/Customization": 2,
+        "Service Operation and Security": 1,
+        "Unspecified": 16
+    },
+    "1252_cincymuseum.org.csv": {
+        "Additional service/feature": 3,
+        "Analytics/Research": 3,
+        "Basic service/feature": 9,
+        "Marketing": 6,
+        "Other": 5,
+        "Personalization/Customization": 8,
+        "Service Operation and Security": 13,
+        "Unspecified": 1
+    },
+    "1259_fool.com.csv": {
+        "Additional service/feature": 11,
+        "Advertising": 12,
+        "Analytics/Research": 25,
+        "Basic service/feature": 20,
+        "Marketing": 10,
+        "Other": 2,
+        "Personalization/Customization": 8,
+        "Service Operation and Security": 3,
+        "Unspecified": 14
+    },
+    "1261_zacks.com.csv": {
+        "Analytics/Research": 1,
+        "Basic service/feature": 3,
+        "Marketing": 7,
+        "Personalization/Customization": 1,
+        "Service Operation and Security": 2,
+        "Unspecified": 2
+    },
+    "1264_citizen.org.csv": {
+        "Analytics/Research": 4,
+        "Basic service/feature": 3,
+        "Marketing": 3,
+        "Other": 2,
+        "Personalization/Customization": 1,
+        "Service Operation and Security": 3,
+        "Unspecified": 3
+    },
+    "1300_bankofamerica.com.csv": {
+        "Additional service/feature": 8,
+        "Advertising": 59,
+        "Analytics/Research": 29,
+        "Basic service/feature": 17,
+        "Legal requirement": 2,
+        "Marketing": 17,
+        "Other": 2,
+        "Personalization/Customization": 13,
+        "Service Operation and Security": 25,
+        "Unspecified": 17
+    },
+    "1306_chasepaymentech.com.csv": {
+        "Additional service/feature": 4,
+        "Advertising": 4,
+        "Analytics/Research": 7,
+        "Basic service/feature": 21,
+        "Legal requirement": 3,
+        "Marketing": 9,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 9,
+        "Unspecified": 14
+    },
+    "133_fortune.com.csv": {
+        "Additional service/feature": 39,
+        "Advertising": 5,
+        "Analytics/Research": 34,
+        "Basic service/feature": 12,
+        "Marketing": 12,
+        "Personalization/Customization": 10,
+        "Service Operation and Security": 1,
+        "Unspecified": 36
+    },
+    "135_instagram.com.csv": {
+        "Additional service/feature": 6,
+        "Advertising": 7,
+        "Analytics/Research": 25,
+        "Basic service/feature": 8,
+        "Legal requirement": 2,
+        "Marketing": 2,
+        "Other": 6,
+        "Personalization/Customization": 7,
+        "Service Operation and Security": 5,
+        "Unspecified": 7
+    },
+    "1360_thehill.com.csv": {
+        "Additional service/feature": 1,
+        "Advertising": 2,
+        "Analytics/Research": 2,
+        "Basic service/feature": 8,
+        "Marketing": 8,
+        "Personalization/Customization": 5,
+        "Unspecified": 22
+    },
+    "1361_yahoo.com.csv": {
+        "Additional service/feature": 6,
+        "Advertising": 2,
+        "Analytics/Research": 4,
+        "Basic service/feature": 16,
+        "Marketing": 1,
+        "Other": 2,
+        "Personalization/Customization": 11,
+        "Unspecified": 26
+    },
+    "1419_miaminewtimes.com.csv": {
+        "Additional service/feature": 8,
+        "Advertising": 8,
+        "Analytics/Research": 16,
+        "Basic service/feature": 5,
+        "Marketing": 5,
+        "Other": 2,
+        "Personalization/Customization": 2,
+        "Service Operation and Security": 5,
+        "Unspecified": 33
+    },
+    "144_style.com.csv": {
+        "Additional service/feature": 5,
+        "Advertising": 6,
+        "Analytics/Research": 10,
+        "Basic service/feature": 19,
+        "Marketing": 8,
+        "Personalization/Customization": 6,
+        "Service Operation and Security": 10,
+        "Unspecified": 29
+    },
+    "1468_rockstargames.com.csv": {
+        "Additional service/feature": 16,
+        "Advertising": 2,
+        "Analytics/Research": 11,
+        "Basic service/feature": 19,
+        "Marketing": 9,
+        "Other": 1,
+        "Personalization/Customization": 8,
+        "Service Operation and Security": 11,
+        "Unspecified": 41
+    },
+    "1470_steampowered.com.csv": {
+        "Additional service/feature": 1,
+        "Analytics/Research": 11,
+        "Basic service/feature": 17,
+        "Marketing": 3,
+        "Personalization/Customization": 4,
+        "Service Operation and Security": 2,
+        "Unspecified": 2
+    },
+    "1498_ticketmaster.com.csv": {
+        "Additional service/feature": 5,
+        "Analytics/Research": 3,
+        "Basic service/feature": 7,
+        "Marketing": 4,
+        "Personalization/Customization": 2,
+        "Service Operation and Security": 3,
+        "Unspecified": 41
+    },
+    "1510_jibjab.com.csv": {
+        "Additional service/feature": 24,
+        "Advertising": 7,
+        "Analytics/Research": 27,
+        "Basic service/feature": 5,
+        "Legal requirement": 1,
+        "Marketing": 12,
+        "Other": 6,
+        "Personalization/Customization": 4,
+        "Service Operation and Security": 12,
+        "Unspecified": 8
+    },
+    "1539_geocaching.com.csv": {
+        "Additional service/feature": 10,
+        "Analytics/Research": 10,
+        "Basic service/feature": 12,
+        "Marketing": 7,
+        "Other": 5,
+        "Personalization/Customization": 9,
+        "Service Operation and Security": 13,
+        "Unspecified": 30
+    },
+    "1545_taylorswift.com.csv": {
+        "Additional service/feature": 4,
+        "Analytics/Research": 17,
+        "Basic service/feature": 8,
+        "Marketing": 1,
+        "Other": 1,
+        "Personalization/Customization": 11,
+        "Service Operation and Security": 9,
+        "Unspecified": 10
+    },
+    "1582_msn.com.csv": {
+        "Additional service/feature": 10,
+        "Advertising": 15,
+        "Analytics/Research": 9,
+        "Basic service/feature": 19,
+        "Other": 5,
+        "Personalization/Customization": 12,
+        "Service Operation and Security": 15,
+        "Unspecified": 28
+    },
+    "1610_post-gazette.com.csv": {
+        "Additional service/feature": 11,
+        "Advertising": 3,
+        "Analytics/Research": 9,
+        "Basic service/feature": 12,
+        "Legal requirement": 2,
+        "Other": 2,
+        "Personalization/Customization": 6,
+        "Service Operation and Security": 3,
+        "Unspecified": 21
+    },
+    "1618_sltrib.com.csv": {
+        "Additional service/feature": 22,
+        "Advertising": 8,
+        "Analytics/Research": 12,
+        "Basic service/feature": 20,
+        "Legal requirement": 1,
+        "Marketing": 13,
+        "Merger/Acquisition": 1,
+        "Personalization/Customization": 4,
+        "Service Operation and Security": 17,
+        "Unspecified": 25
+    },
+    "1636_sidearmsports.com.csv": {
+        "Additional service/feature": 19,
+        "Advertising": 22,
+        "Analytics/Research": 21,
+        "Basic service/feature": 23,
+        "Legal requirement": 2,
+        "Marketing": 9,
+        "Other": 3,
+        "Personalization/Customization": 8,
+        "Service Operation and Security": 5,
+        "Unspecified": 25
+    },
+    "1637_dailyillini.com.csv": {
+        "Advertising": 4,
+        "Analytics/Research": 13,
+        "Basic service/feature": 2,
+        "Marketing": 1,
+        "Personalization/Customization": 5
+    },
+    "164_adweek.com.csv": {
+        "Additional service/feature": 4,
+        "Advertising": 3,
+        "Analytics/Research": 5,
+        "Basic service/feature": 6,
+        "Marketing": 3,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 1,
+        "Unspecified": 19
+    },
+    "1666_wsmv.com.csv": {
+        "Additional service/feature": 8,
+        "Advertising": 9,
+        "Analytics/Research": 20,
+        "Basic service/feature": 3,
+        "Marketing": 2,
+        "Other": 5,
+        "Personalization/Customization": 2,
+        "Service Operation and Security": 4,
+        "Unspecified": 33
+    },
+    "1673_tulsaworld.com.csv": {
+        "Advertising": 4,
+        "Analytics/Research": 37,
+        "Basic service/feature": 10,
+        "Legal requirement": 8,
+        "Marketing": 16,
+        "Other": 1,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 12,
+        "Unspecified": 21
+    },
+    "1683_dailynews.com.csv": {
+        "Additional service/feature": 14,
+        "Advertising": 14,
+        "Analytics/Research": 11,
+        "Basic service/feature": 28,
+        "Legal requirement": 1,
+        "Marketing": 13,
+        "Merger/Acquisition": 2,
+        "Other": 1,
+        "Personalization/Customization": 6,
+        "Service Operation and Security": 8,
+        "Unspecified": 31
+    },
+    "1694_lids.com.csv": {
+        "Additional service/feature": 8,
+        "Advertising": 2,
+        "Analytics/Research": 18,
+        "Basic service/feature": 10,
+        "Marketing": 9,
+        "Personalization/Customization": 6,
+        "Service Operation and Security": 15,
+        "Unspecified": 18
+    },
+    "1703_sports-reference.com.csv": {
+        "Additional service/feature": 1,
+        "Analytics/Research": 5,
+        "Basic service/feature": 6,
+        "Marketing": 8,
+        "Other": 2,
+        "Personalization/Customization": 11,
+        "Service Operation and Security": 4,
+        "Unspecified": 29
+    },
+    "1708_foxsports.com.csv": {
+        "Additional service/feature": 13,
+        "Advertising": 12,
+        "Analytics/Research": 9,
+        "Basic service/feature": 19,
+        "Legal requirement": 2,
+        "Marketing": 12,
+        "Other": 2,
+        "Personalization/Customization": 4,
+        "Service Operation and Security": 3,
+        "Unspecified": 15
+    },
+    "1713_latinpost.com.csv": {
+        "Additional service/feature": 21,
+        "Advertising": 11,
+        "Analytics/Research": 14,
+        "Basic service/feature": 26,
+        "Marketing": 27,
+        "Other": 7,
+        "Personalization/Customization": 14,
+        "Service Operation and Security": 14,
+        "Unspecified": 30
+    },
+    "175_mlb.mlb.com.csv": {
+        "Additional service/feature": 16,
+        "Advertising": 2,
+        "Analytics/Research": 14,
+        "Basic service/feature": 8,
+        "Marketing": 8,
+        "Merger/Acquisition": 1,
+        "Other": 1,
+        "Personalization/Customization": 5,
+        "Service Operation and Security": 2,
+        "Unspecified": 31
+    },
+    "186_abcnews.com.csv": {
+        "Additional service/feature": 8,
+        "Advertising": 1,
+        "Analytics/Research": 3,
+        "Basic service/feature": 19,
+        "Legal requirement": 1,
+        "Marketing": 3,
+        "Other": 1,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 1,
+        "Unspecified": 75
+    },
+    "200_washingtonpost.com.csv": {
+        "Additional service/feature": 4,
+        "Advertising": 14,
+        "Analytics/Research": 12,
+        "Basic service/feature": 16,
+        "Legal requirement": 3,
+        "Marketing": 4,
+        "Personalization/Customization": 16,
+        "Service Operation and Security": 4,
+        "Unspecified": 38
+    },
+    "202_foodallergy.org.csv": {
+        "Additional service/feature": 4,
+        "Advertising": 7,
+        "Analytics/Research": 14,
+        "Basic service/feature": 12,
+        "Marketing": 10,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 2,
+        "Unspecified": 7
+    },
+    "207_reference.com.csv": {
+        "Additional service/feature": 10,
+        "Advertising": 2,
+        "Analytics/Research": 7,
+        "Basic service/feature": 21,
+        "Marketing": 3,
+        "Other": 2,
+        "Personalization/Customization": 8,
+        "Service Operation and Security": 4,
+        "Unspecified": 31
+    },
+    "20_theatlantic.com.csv": {
+        "Additional service/feature": 5,
+        "Advertising": 8,
+        "Analytics/Research": 7,
+        "Basic service/feature": 9,
+        "Marketing": 3,
+        "Other": 1,
+        "Personalization/Customization": 4,
+        "Service Operation and Security": 3,
+        "Unspecified": 36
+    },
+    "21_imdb.com.csv": {
+        "Additional service/feature": 6,
+        "Advertising": 7,
+        "Analytics/Research": 5,
+        "Basic service/feature": 8,
+        "Personalization/Customization": 7,
+        "Unspecified": 10
+    },
+    "228_gawker.com.csv": {
+        "Additional service/feature": 8,
+        "Advertising": 9,
+        "Analytics/Research": 7,
+        "Basic service/feature": 5,
+        "Marketing": 3,
+        "Personalization/Customization": 2,
+        "Service Operation and Security": 2,
+        "Unspecified": 21
+    },
+    "26_nytimes.com.csv": {
+        "Additional service/feature": 18,
+        "Advertising": 8,
+        "Analytics/Research": 14,
+        "Basic service/feature": 18,
+        "Marketing": 6,
+        "Other": 3,
+        "Personalization/Customization": 9,
+        "Service Operation and Security": 2,
+        "Unspecified": 35
+    },
+    "303_reddit.com.csv": {
+        "Additional service/feature": 3,
+        "Advertising": 7,
+        "Analytics/Research": 12,
+        "Basic service/feature": 11,
+        "Legal requirement": 1,
+        "Other": 1,
+        "Personalization/Customization": 23,
+        "Service Operation and Security": 15,
+        "Unspecified": 36
+    },
+    "320_timeinc.com.csv": {
+        "Additional service/feature": 11,
+        "Advertising": 5,
+        "Analytics/Research": 14,
+        "Basic service/feature": 18,
+        "Marketing": 15,
+        "Other": 1,
+        "Personalization/Customization": 17,
+        "Service Operation and Security": 2,
+        "Unspecified": 29
+    },
+    "325_ocregister.com.csv": {
+        "Additional service/feature": 5,
+        "Advertising": 3,
+        "Analytics/Research": 7,
+        "Basic service/feature": 8,
+        "Marketing": 3,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 5,
+        "Unspecified": 17
+    },
+    "32_voxmedia.com.csv": {
+        "Additional service/feature": 8,
+        "Advertising": 9,
+        "Analytics/Research": 30,
+        "Basic service/feature": 9,
+        "Marketing": 8,
+        "Other": 1,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 7,
+        "Unspecified": 26
+    },
+    "331_tgifridays.com.csv": {
+        "Analytics/Research": 8,
+        "Marketing": 1,
+        "Personalization/Customization": 11,
+        "Unspecified": 21
+    },
+    "33_nbcuniversal.com.csv": {
+        "Additional service/feature": 7,
+        "Advertising": 12,
+        "Analytics/Research": 3,
+        "Basic service/feature": 15,
+        "Marketing": 4,
+        "Other": 3,
+        "Personalization/Customization": 5,
+        "Service Operation and Security": 7,
+        "Unspecified": 72
+    },
+    "348_walmart.com.csv": {
+        "Additional service/feature": 17,
+        "Advertising": 9,
+        "Analytics/Research": 13,
+        "Basic service/feature": 25,
+        "Legal requirement": 5,
+        "Marketing": 6,
+        "Other": 1,
+        "Personalization/Customization": 15,
+        "Service Operation and Security": 11,
+        "Unspecified": 37
+    },
+    "359_vikings.com.csv": {
+        "Additional service/feature": 9,
+        "Advertising": 13,
+        "Analytics/Research": 20,
+        "Basic service/feature": 12,
+        "Legal requirement": 1,
+        "Marketing": 9,
+        "Other": 3,
+        "Personalization/Customization": 7,
+        "Service Operation and Security": 6,
+        "Unspecified": 29
+    },
+    "394_newsbusters.org.csv": {
+        "Additional service/feature": 4,
+        "Advertising": 1,
+        "Analytics/Research": 21,
+        "Basic service/feature": 5,
+        "Marketing": 6,
+        "Other": 1,
+        "Personalization/Customization": 10,
+        "Service Operation and Security": 2,
+        "Unspecified": 36
+    },
+    "414_washingtonian.com.csv": {
+        "Additional service/feature": 2,
+        "Advertising": 3,
+        "Analytics/Research": 5,
+        "Basic service/feature": 4,
+        "Marketing": 3,
+        "Other": 2,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 3,
+        "Unspecified": 18
+    },
+    "453_barnesandnoble.com.csv": {
+        "Additional service/feature": 28,
+        "Advertising": 6,
+        "Analytics/Research": 16,
+        "Basic service/feature": 34,
+        "Marketing": 28,
+        "Personalization/Customization": 10,
+        "Service Operation and Security": 8,
+        "Unspecified": 82
+    },
+    "456_boardgamegeek.com.csv": {
+        "Additional service/feature": 2,
+        "Advertising": 3,
+        "Analytics/Research": 3,
+        "Basic service/feature": 6,
+        "Marketing": 1,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 3,
+        "Unspecified": 21
+    },
+    "481_fredericknewspost.com.csv": {
+        "Additional service/feature": 5,
+        "Advertising": 1,
+        "Analytics/Research": 6,
+        "Basic service/feature": 6,
+        "Marketing": 9,
+        "Other": 1,
+        "Service Operation and Security": 2,
+        "Unspecified": 3
+    },
+    "503_buffalowildwings.com.csv": {
+        "Additional service/feature": 7,
+        "Analytics/Research": 4,
+        "Basic service/feature": 26,
+        "Marketing": 13,
+        "Personalization/Customization": 1,
+        "Service Operation and Security": 4,
+        "Unspecified": 8
+    },
+    "517_kaleidahealth.org.csv": {
+        "Additional service/feature": 1,
+        "Analytics/Research": 5,
+        "Basic service/feature": 15,
+        "Legal requirement": 2,
+        "Marketing": 5,
+        "Other": 12,
+        "Personalization/Customization": 1,
+        "Service Operation and Security": 5,
+        "Unspecified": 29
+    },
+    "523_usa.gov.csv": {
+        "Analytics/Research": 9,
+        "Basic service/feature": 5,
+        "Legal requirement": 2,
+        "Marketing": 1,
+        "Other": 2,
+        "Unspecified": 20
+    },
+    "531_archives.gov.csv": {
+        "Additional service/feature": 4,
+        "Analytics/Research": 12,
+        "Basic service/feature": 19,
+        "Legal requirement": 1,
+        "Other": 1,
+        "Personalization/Customization": 6,
+        "Service Operation and Security": 7,
+        "Unspecified": 17
+    },
+    "541_ifsa-butler.org.csv": {
+        "Additional service/feature": 1,
+        "Analytics/Research": 6,
+        "Basic service/feature": 2,
+        "Legal requirement": 1,
+        "Other": 1,
+        "Unspecified": 15
+    },
+    "559_www.loc.gov.csv": {
+        "Additional service/feature": 5,
+        "Analytics/Research": 10,
+        "Basic service/feature": 6,
+        "Legal requirement": 2,
+        "Marketing": 1,
+        "Personalization/Customization": 7,
+        "Service Operation and Security": 1,
+        "Unspecified": 23
+    },
+    "571_abita.com.csv": {
+        "Additional service/feature": 2,
+        "Analytics/Research": 10,
+        "Basic service/feature": 8,
+        "Marketing": 1,
+        "Other": 1,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 9,
+        "Unspecified": 10
+    },
+    "581_coffeereview.com.csv": {
+        "Additional service/feature": 3,
+        "Analytics/Research": 13,
+        "Basic service/feature": 6,
+        "Marketing": 4,
+        "Merger/Acquisition": 1,
+        "Other": 8,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 3,
+        "Unspecified": 20
+    },
+    "584_communitycoffee.com.csv": {
+        "Additional service/feature": 4,
+        "Basic service/feature": 1,
+        "Personalization/Customization": 5
+    },
+    "586_cariboucoffee.com.csv": {
+        "Additional service/feature": 2,
+        "Advertising": 2,
+        "Analytics/Research": 3,
+        "Basic service/feature": 9,
+        "Other": 3,
+        "Personalization/Customization": 3,
+        "Service Operation and Security": 2,
+        "Unspecified": 14
+    },
+    "58_esquire.com.csv": {
+        "Additional service/feature": 13,
+        "Advertising": 8,
+        "Analytics/Research": 19,
+        "Basic service/feature": 26,
+        "Marketing": 11,
+        "Other": 4,
+        "Personalization/Customization": 5,
+        "Service Operation and Security": 15,
+        "Unspecified": 29
+    },
+    "591_google.com.csv": {
+        "Additional service/feature": 9,
+        "Advertising": 16,
+        "Analytics/Research": 5,
+        "Basic service/feature": 14,
+        "Marketing": 1,
+        "Other": 6,
+        "Personalization/Customization": 14,
+        "Service Operation and Security": 11,
+        "Unspecified": 39
+    },
+    "59_liquor.com.csv": {
+        "Additional service/feature": 4,
+        "Analytics/Research": 6,
+        "Basic service/feature": 1,
+        "Marketing": 1,
+        "Other": 4,
+        "Personalization/Customization": 6,
+        "Service Operation and Security": 5,
+        "Unspecified": 3
+    },
+    "627_dairyqueen.com.csv": {
+        "Additional service/feature": 2,
+        "Advertising": 2,
+        "Analytics/Research": 8,
+        "Legal requirement": 5,
+        "Service Operation and Security": 1,
+        "Unspecified": 11
+    },
+    "635_playstation.com.csv": {
+        "Additional service/feature": 7,
+        "Advertising": 10,
+        "Analytics/Research": 16,
+        "Basic service/feature": 19,
+        "Legal requirement": 2,
+        "Marketing": 17,
+        "Other": 1,
+        "Personalization/Customization": 4,
+        "Service Operation and Security": 1,
+        "Unspecified": 11
+    },
+    "640_gamestop.com.csv": {
+        "Additional service/feature": 9,
+        "Advertising": 2,
+        "Analytics/Research": 5,
+        "Basic service/feature": 26,
+        "Legal requirement": 1,
+        "Marketing": 12,
+        "Merger/Acquisition": 1,
+        "Personalization/Customization": 9,
+        "Service Operation and Security": 6,
+        "Unspecified": 27
+    },
+    "641_cbsinteractive.com.csv": {
+        "Advertising": 4,
+        "Analytics/Research": 1,
+        "Basic service/feature": 4,
+        "Marketing": 2,
+        "Personalization/Customization": 2,
+        "Unspecified": 13
+    },
+    "642_thefreedictionary.com.csv": {
+        "Additional service/feature": 7,
+        "Analytics/Research": 8,
+        "Basic service/feature": 5,
+        "Legal requirement": 2,
+        "Marketing": 1,
+        "Other": 1,
+        "Service Operation and Security": 1,
+        "Unspecified": 19
+    },
+    "652_randomhouse.com.csv": {
+        "Additional service/feature": 19,
+        "Advertising": 10,
+        "Analytics/Research": 23,
+        "Basic service/feature": 21,
+        "Legal requirement": 2,
+        "Marketing": 8,
+        "Other": 5,
+        "Personalization/Customization": 19,
+        "Service Operation and Security": 10,
+        "Unspecified": 55
+    },
+    "676_restaurantnews.com.csv": {
+        "Analytics/Research": 5,
+        "Service Operation and Security": 4,
+        "Unspecified": 1
+    },
+    "686_military.com.csv": {
+        "Additional service/feature": 3,
+        "Advertising": 22,
+        "Analytics/Research": 17,
+        "Basic service/feature": 6,
+        "Marketing": 6,
+        "Other": 5,
+        "Personalization/Customization": 7,
+        "Service Operation and Security": 12,
+        "Unspecified": 16
+    },
+    "701_tangeroutlet.com.csv": {
+        "Unspecified": 2
+    },
+    "70_meredith.com.csv": {
+        "Additional service/feature": 9,
+        "Advertising": 12,
+        "Analytics/Research": 15,
+        "Basic service/feature": 14,
+        "Legal requirement": 6,
+        "Marketing": 8,
+        "Other": 8,
+        "Personalization/Customization": 11,
+        "Service Operation and Security": 5,
+        "Unspecified": 102
+    },
+    "723_dogbreedinfo.com.csv": {
+        "Additional service/feature": 2,
+        "Basic service/feature": 2,
+        "Unspecified": 3
+    },
+    "744_minecraft.gamepedia.com.csv": {
+        "Additional service/feature": 12,
+        "Advertising": 1,
+        "Analytics/Research": 6,
+        "Basic service/feature": 9,
+        "Marketing": 2,
+        "Personalization/Customization": 5,
+        "Service Operation and Security": 4,
+        "Unspecified": 10
+    },
+    "745_eatchicken.com.csv": {
+        "Additional service/feature": 2,
+        "Other": 3,
+        "Unspecified": 6
+    },
+    "746_kraftrecipes.com.csv": {
+        "Additional service/feature": 28,
+        "Advertising": 7,
+        "Analytics/Research": 23,
+        "Basic service/feature": 22,
+        "Marketing": 16,
+        "Other": 7,
+        "Personalization/Customization": 39,
+        "Unspecified": 22
+    },
+    "760_si.edu.csv": {
+        "Advertising": 1,
+        "Analytics/Research": 14,
+        "Basic service/feature": 5,
+        "Marketing": 3,
+        "Personalization/Customization": 4,
+        "Unspecified": 1
+    },
+    "777_education.jlab.org.csv": {
+        "Analytics/Research": 7,
+        "Legal requirement": 1,
+        "Other": 1,
+        "Unspecified": 7
+    },
+    "807_lodgemfg.com.csv": {
+        "Additional service/feature": 2,
+        "Advertising": 1,
+        "Analytics/Research": 2,
+        "Basic service/feature": 16,
+        "Unspecified": 3
+    },
+    "817_ironhorsevineyards.com.csv": {
+        "Basic service/feature": 5
+    },
+    "82_sheknows.com.csv": {
+        "Additional service/feature": 10,
+        "Advertising": 11,
+        "Analytics/Research": 18,
+        "Basic service/feature": 22,
+        "Legal requirement": 1,
+        "Marketing": 11,
+        "Other": 2,
+        "Personalization/Customization": 10,
+        "Service Operation and Security": 13,
+        "Unspecified": 30
+    },
+    "856_sciencemag.org.csv": {
+        "Additional service/feature": 4,
+        "Advertising": 1,
+        "Analytics/Research": 9,
+        "Basic service/feature": 10,
+        "Marketing": 8,
+        "Other": 4,
+        "Personalization/Customization": 4,
+        "Service Operation and Security": 4,
+        "Unspecified": 27
+    },
+    "862_disinfo.com.csv": {
+        "Additional service/feature": 2,
+        "Analytics/Research": 12,
+        "Basic service/feature": 10,
+        "Marketing": 1,
+        "Merger/Acquisition": 1,
+        "Other": 1,
+        "Personalization/Customization": 5,
+        "Service Operation and Security": 5,
+        "Unspecified": 31
+    },
+    "883_ted.com.csv": {
+        "Additional service/feature": 11,
+        "Advertising": 4,
+        "Analytics/Research": 11,
+        "Basic service/feature": 19,
+        "Legal requirement": 3,
+        "Marketing": 1,
+        "Personalization/Customization": 6,
+        "Service Operation and Security": 5,
+        "Unspecified": 20
+    },
+    "884_naturalnews.com.csv": {
+        "Other": 1
+    },
+    "891_everydayhealth.com.csv": {
+        "Additional service/feature": 7,
+        "Advertising": 43,
+        "Analytics/Research": 5,
+        "Basic service/feature": 13,
+        "Marketing": 8,
+        "Personalization/Customization": 15,
+        "Service Operation and Security": 4,
+        "Unspecified": 13
+    },
+    "898_uptodate.com.csv": {
+        "Advertising": 1,
+        "Analytics/Research": 3,
+        "Basic service/feature": 5,
+        "Marketing": 2,
+        "Other": 1,
+        "Personalization/Customization": 4,
+        "Unspecified": 7
+    },
+    "907_earthkam.org.csv": {
+        "Analytics/Research": 3,
+        "Basic service/feature": 5,
+        "Marketing": 1
+    },
+    "919_uh.edu.csv": {
+        "Analytics/Research": 8,
+        "Basic service/feature": 4,
+        "Legal requirement": 1,
+        "Personalization/Customization": 1,
+        "Unspecified": 3
+    },
+    "928_stlouisfed.org.csv": {
+        "Additional service/feature": 2,
+        "Analytics/Research": 15,
+        "Basic service/feature": 8,
+        "Legal requirement": 1,
+        "Marketing": 1,
+        "Other": 11,
+        "Personalization/Customization": 1,
+        "Service Operation and Security": 3,
+        "Unspecified": 20
+    },
+    "93_pbs.org.csv": {
+        "Additional service/feature": 12,
+        "Analytics/Research": 16,
+        "Basic service/feature": 12,
+        "Marketing": 5,
+        "Other": 7,
+        "Personalization/Customization": 12,
+        "Service Operation and Security": 1,
+        "Unspecified": 35
+    },
+    "940_internetbrands.com.csv": {
+        "Additional service/feature": 24,
+        "Advertising": 8,
+        "Analytics/Research": 14,
+        "Basic service/feature": 28,
+        "Legal requirement": 9,
+        "Marketing": 4,
+        "Other": 10,
+        "Personalization/Customization": 8,
+        "Service Operation and Security": 24,
+        "Unspecified": 28
+    },
+    "962_lynda.com.csv": {
+        "Additional service/feature": 8,
+        "Advertising": 1,
+        "Analytics/Research": 14,
+        "Basic service/feature": 30,
+        "Legal requirement": 1,
+        "Marketing": 6,
+        "Other": 17,
+        "Personalization/Customization": 13,
+        "Service Operation and Security": 5,
+        "Unspecified": 48
+    },
+    "988_solarviews.com.csv": {},
+    "98_neworleansonline.com.csv": {
+        "Additional service/feature": 5,
+        "Advertising": 9,
+        "Analytics/Research": 8,
+        "Basic service/feature": 15,
+        "Legal requirement": 5,
+        "Marketing": 12,
+        "Other": 3,
+        "Personalization/Customization": 4,
+        "Service Operation and Security": 6,
+        "Unspecified": 38
+    },
+    "995_mohegansun.com.csv": {
+        "Additional service/feature": 2,
+        "Basic service/feature": 2,
+        "Marketing": 4,
+        "Personalization/Customization": 3,
+        "Unspecified": 5
+    }
+}

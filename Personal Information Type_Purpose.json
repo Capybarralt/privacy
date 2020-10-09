@@ -1,13 +1,10 @@
 {
     "Computer information": [
         {
-            "Analytics/Research": 226
-        },
-        {
             "Unspecified": 574
         },
         {
-            "Service Operation and Security": 129
+            "Analytics/Research": 226
         },
         {
             "Basic service/feature": 77
@@ -19,13 +16,16 @@
             "Other": 12
         },
         {
+            "Service Operation and Security": 129
+        },
+        {
+            "Personalization/Customization": 93
+        },
+        {
             "Advertising": 41
         },
         {
             "Marketing": 30
-        },
-        {
-            "Personalization/Customization": 93
         },
         {
             "Legal requirement": 7
@@ -42,25 +42,25 @@
             "Additional service/feature": 612
         },
         {
-            "Service Operation and Security": 95
-        },
-        {
             "Marketing": 428
-        },
-        {
-            "Analytics/Research": 91
-        },
-        {
-            "Advertising": 71
-        },
-        {
-            "Personalization/Customization": 77
         },
         {
             "Other": 83
         },
         {
             "Legal requirement": 23
+        },
+        {
+            "Service Operation and Security": 95
+        },
+        {
+            "Advertising": 71
+        },
+        {
+            "Analytics/Research": 91
+        },
+        {
+            "Personalization/Customization": 77
         }
     ],
     "Cookies and tracking elements": [
@@ -68,28 +68,28 @@
             "Unspecified": 580
         },
         {
+            "Advertising": 418
+        },
+        {
             "Analytics/Research": 699
         },
         {
-            "Marketing": 108
-        },
-        {
-            "Personalization/Customization": 544
-        },
-        {
-            "Additional service/feature": 164
+            "Service Operation and Security": 166
         },
         {
             "Basic service/feature": 255
         },
         {
+            "Marketing": 108
+        },
+        {
+            "Additional service/feature": 164
+        },
+        {
+            "Personalization/Customization": 544
+        },
+        {
             "Other": 83
-        },
-        {
-            "Advertising": 418
-        },
-        {
-            "Service Operation and Security": 166
         },
         {
             "Legal requirement": 3
@@ -97,34 +97,34 @@
     ],
     "Demographic": [
         {
-            "Personalization/Customization": 63
-        },
-        {
-            "Analytics/Research": 144
-        },
-        {
-            "Other": 27
-        },
-        {
             "Unspecified": 292
         },
         {
             "Basic service/feature": 150
         },
         {
-            "Additional service/feature": 150
+            "Service Operation and Security": 27
+        },
+        {
+            "Other": 27
+        },
+        {
+            "Analytics/Research": 144
         },
         {
             "Marketing": 61
         },
         {
-            "Legal requirement": 6
+            "Additional service/feature": 150
         },
         {
-            "Service Operation and Security": 27
+            "Personalization/Customization": 63
         },
         {
             "Advertising": 68
+        },
+        {
+            "Legal requirement": 6
         }
     ],
     "Financial": [
@@ -132,10 +132,7 @@
             "Basic service/feature": 377
         },
         {
-            "Additional service/feature": 156
-        },
-        {
-            "Marketing": 41
+            "Legal requirement": 4
         },
         {
             "Unspecified": 222
@@ -144,10 +141,10 @@
             "Service Operation and Security": 42
         },
         {
-            "Analytics/Research": 22
+            "Additional service/feature": 156
         },
         {
-            "Advertising": 14
+            "Analytics/Research": 22
         },
         {
             "Personalization/Customization": 3
@@ -156,15 +153,15 @@
             "Other": 10
         },
         {
-            "Legal requirement": 4
+            "Marketing": 41
+        },
+        {
+            "Advertising": 14
         }
     ],
     "Generic personal information": [
         {
             "Unspecified": 816
-        },
-        {
-            "Basic service/feature": 547
         },
         {
             "Personalization/Customization": 209
@@ -173,16 +170,10 @@
             "Marketing": 360
         },
         {
-            "Additional service/feature": 391
-        },
-        {
             "Analytics/Research": 271
         },
         {
-            "Legal requirement": 67
-        },
-        {
-            "Service Operation and Security": 195
+            "Basic service/feature": 547
         },
         {
             "Other": 88
@@ -191,27 +182,36 @@
             "Advertising": 130
         },
         {
+            "Service Operation and Security": 195
+        },
+        {
+            "Legal requirement": 67
+        },
+        {
+            "Additional service/feature": 391
+        },
+        {
             "Merger/Acquisition": 12
         }
     ],
     "Health": [
         {
-            "Unspecified": 85
-        },
-        {
             "Basic service/feature": 39
         },
         {
-            "Marketing": 12
+            "Service Operation and Security": 24
         },
         {
             "Additional service/feature": 21
         },
         {
-            "Other": 32
+            "Legal requirement": 9
         },
         {
-            "Service Operation and Security": 24
+            "Unspecified": 85
+        },
+        {
+            "Other": 32
         },
         {
             "Analytics/Research": 16
@@ -220,7 +220,7 @@
             "Personalization/Customization": 5
         },
         {
-            "Legal requirement": 9
+            "Marketing": 12
         },
         {
             "Advertising": 6
@@ -228,10 +228,10 @@
     ],
     "IP address and device IDs": [
         {
-            "Analytics/Research": 356
+            "Unspecified": 654
         },
         {
-            "Unspecified": 654
+            "Analytics/Research": 356
         },
         {
             "Basic service/feature": 89
@@ -266,10 +266,10 @@
             "Basic service/feature": 126
         },
         {
-            "Additional service/feature": 127
+            "Marketing": 47
         },
         {
-            "Marketing": 47
+            "Additional service/feature": 127
         },
         {
             "Advertising": 125
@@ -295,7 +295,7 @@
             "Unspecified": 265
         },
         {
-            "Personalization/Customization": 56
+            "Basic service/feature": 107
         },
         {
             "Marketing": 35
@@ -304,45 +304,45 @@
             "Additional service/feature": 106
         },
         {
-            "Basic service/feature": 107
-        },
-        {
-            "Advertising": 44
-        },
-        {
-            "Service Operation and Security": 61
+            "Personalization/Customization": 56
         },
         {
             "Other": 60
+        },
+        {
+            "Service Operation and Security": 61
         },
         {
             "Legal requirement": 9
         },
         {
             "Analytics/Research": 90
+        },
+        {
+            "Advertising": 44
         }
     ],
     "Personal identifier": [
         {
-            "Basic service/feature": 48
-        },
-        {
-            "Additional service/feature": 59
-        },
-        {
             "Unspecified": 93
         },
         {
-            "Other": 7
-        },
-        {
-            "Analytics/Research": 7
+            "Basic service/feature": 48
         },
         {
             "Legal requirement": 8
         },
         {
+            "Other": 7
+        },
+        {
             "Service Operation and Security": 8
+        },
+        {
+            "Analytics/Research": 7
+        },
+        {
+            "Additional service/feature": 59
         },
         {
             "Advertising": 3
@@ -356,65 +356,59 @@
             "Unspecified": 107
         },
         {
-            "Personalization/Customization": 10
-        },
-        {
-            "Analytics/Research": 14
+            "Basic service/feature": 18
         },
         {
             "Service Operation and Security": 8
-        },
-        {
-            "Other": 4
-        },
-        {
-            "Basic service/feature": 18
         },
         {
             "Additional service/feature": 54
         },
         {
             "Marketing": 3
+        },
+        {
+            "Personalization/Customization": 10
+        },
+        {
+            "Analytics/Research": 14
+        },
+        {
+            "Other": 4
         }
     ],
     "Survey data": [
         {
-            "Analytics/Research": 53
+            "Additional service/feature": 15
         },
         {
             "Unspecified": 72
         },
         {
+            "Personalization/Customization": 11
+        },
+        {
+            "Analytics/Research": 53
+        },
+        {
             "Basic service/feature": 6
         },
         {
-            "Additional service/feature": 15
+            "Legal requirement": 3
+        },
+        {
+            "Service Operation and Security": 8
         },
         {
             "Advertising": 3
         },
         {
             "Marketing": 9
-        },
-        {
-            "Personalization/Customization": 11
-        },
-        {
-            "Service Operation and Security": 8
-        },
-        {
-            "Legal requirement": 3
         }
     ],
     "Unspecified": [
         {
-            "Basic service/feature": 708
-        },
-        {
             "Unspecified": 1237
-        },
-        {
-            "Marketing": 434
         },
         {
             "Personalization/Customization": 451
@@ -423,68 +417,80 @@
             "Other": 211
         },
         {
-            "Analytics/Research": 703
+            "Marketing": 434
         },
         {
             "Advertising": 341
         },
         {
-            "Additional service/feature": 445
+            "Basic service/feature": 708
         },
         {
-            "Merger/Acquisition": 15
+            "Analytics/Research": 703
+        },
+        {
+            "Additional service/feature": 445
         },
         {
             "Service Operation and Security": 378
         },
         {
             "Legal requirement": 107
+        },
+        {
+            "Merger/Acquisition": 15
         }
     ],
     "User online activities": [
         {
-            "Basic service/feature": 109
-        },
-        {
             "Unspecified": 840
-        },
-        {
-            "Analytics/Research": 483
         },
         {
             "Advertising": 281
         },
         {
-            "Additional service/feature": 55
-        },
-        {
-            "Service Operation and Security": 108
+            "Basic service/feature": 109
         },
         {
             "Marketing": 84
+        },
+        {
+            "Additional service/feature": 55
+        },
+        {
+            "Legal requirement": 22
+        },
+        {
+            "Analytics/Research": 483
+        },
+        {
+            "Service Operation and Security": 108
         },
         {
             "Personalization/Customization": 136
         },
         {
             "Other": 26
-        },
-        {
-            "Legal requirement": 22
         }
     ],
     "User profile": [
         {
-            "Personalization/Customization": 52
-        },
-        {
-            "Additional service/feature": 105
+            "Basic service/feature": 91
         },
         {
             "Unspecified": 140
         },
         {
-            "Basic service/feature": 91
+            "Personalization/Customization": 52
+        },
+        {
+            "Service Operation and Security": 12
+        },
+        {
+            "Additional service/feature": 105
+        },
+        {
+            "Other": 21
         },
         {
             "Advertising": 30
@@ -493,13 +499,7 @@
             "Marketing": 15
         },
         {
-            "Other": 21
-        },
-        {
             "Analytics/Research": 9
-        },
-        {
-            "Service Operation and Security": 12
         },
         {
             "Legal requirement": 3
