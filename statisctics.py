@@ -50,7 +50,7 @@ def count_concept(privacy, concept):
                     count[key] = count[key] + d[key]
         final[file] = count
 
-    with open(f'{concept}_in_Files.json', 'w') as f:
+    with open(f'./final_json/{concept}_in_Files.json', 'w') as f:
         f.write(json.dumps(final, indent=4, sort_keys=True))
 
 
@@ -87,7 +87,7 @@ def link_concept(privacy, concept_1, concept_2):
         else:
             final[s[0]] = [{s[1]: my_dict[i]}, ]
 
-    with open(f'{concept_1}_{concept_2}.json', 'w') as f:
+    with open(f'./final_json/{concept_1}_{concept_2}.json', 'w') as f:
         f.write(json.dumps(final, indent=4, sort_keys=True))
 
 

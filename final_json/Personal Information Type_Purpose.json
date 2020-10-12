@@ -1,5 +1,5 @@
 {
-    "Computer information": [
+    "Computer information                                            ": [
         {
             "Unspecified": 574
         },
@@ -31,7 +31,7 @@
             "Legal requirement": 7
         }
     ],
-    "Contact": [
+    "Contact                                            ": [
         {
             "Basic service/feature": 721
         },
@@ -63,7 +63,7 @@
             "Personalization/Customization": 77
         }
     ],
-    "Cookies and tracking elements": [
+    "Cookies and tracking elements                                            ": [
         {
             "Unspecified": 580
         },
@@ -95,7 +95,7 @@
             "Legal requirement": 3
         }
     ],
-    "Demographic": [
+    "Demographic                                            ": [
         {
             "Unspecified": 292
         },
@@ -127,7 +127,7 @@
             "Legal requirement": 6
         }
     ],
-    "Financial": [
+    "Financial                                            ": [
         {
             "Basic service/feature": 377
         },
@@ -159,7 +159,7 @@
             "Advertising": 14
         }
     ],
-    "Generic personal information": [
+    "Generic personal information                                            ": [
         {
             "Unspecified": 816
         },
@@ -194,7 +194,7 @@
             "Merger/Acquisition": 12
         }
     ],
-    "Health": [
+    "Health                                            ": [
         {
             "Basic service/feature": 39
         },
@@ -226,7 +226,7 @@
             "Advertising": 6
         }
     ],
-    "IP address and device IDs": [
+    "IP address and device IDs                                            ": [
         {
             "Unspecified": 654
         },
@@ -258,7 +258,7 @@
             "Legal requirement": 5
         }
     ],
-    "Location": [
+    "Location                                            ": [
         {
             "Unspecified": 483
         },
@@ -290,7 +290,7 @@
             "Other": 5
         }
     ],
-    "Other": [
+    "Other                                            ": [
         {
             "Unspecified": 265
         },
@@ -322,7 +322,7 @@
             "Advertising": 44
         }
     ],
-    "Personal identifier": [
+    "Personal identifier                                            ": [
         {
             "Unspecified": 93
         },
@@ -351,7 +351,7 @@
             "Personalization/Customization": 2
         }
     ],
-    "Social media data": [
+    "Social media data                                            ": [
         {
             "Unspecified": 107
         },
@@ -377,7 +377,7 @@
             "Other": 4
         }
     ],
-    "Survey data": [
+    "Survey data                                            ": [
         {
             "Additional service/feature": 15
         },
@@ -406,7 +406,7 @@
             "Marketing": 9
         }
     ],
-    "Unspecified": [
+    "Unspecified                                            ": [
         {
             "Unspecified": 1237
         },
@@ -441,7 +441,7 @@
             "Merger/Acquisition": 15
         }
     ],
-    "User online activities": [
+    "User online activities                                            ": [
         {
             "Unspecified": 840
         },
@@ -473,7 +473,7 @@
             "Other": 26
         }
     ],
-    "User profile": [
+    "User profile                                            ": [
         {
             "Basic service/feature": 91
         },
